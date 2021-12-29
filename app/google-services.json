@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82816052165",
+    "project_id": "cryptocoin-800f7",
+    "storage_bucket": "cryptocoin-800f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82816052165:android:f265929b386fd74376f9ac",
+        "android_client_info": {
+          "package_name": "com.example.cryptocoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82816052165-682r1muj4v381tqrhjcn3ve53u48o4ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpNSD65ryplFIjLQ2Qxvhj5d6NPoltZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82816052165-682r1muj4v381tqrhjcn3ve53u48o4ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

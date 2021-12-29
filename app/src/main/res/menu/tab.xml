@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/all"
+        android:title="@string/list"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+
+    <item android:id="@+id/fav"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"/>
+</menu>
